@@ -1,0 +1,30 @@
+<h1> Data Structures and Algorthms </h1>
+
+<h2> Table of Contents </h2>
+
+- [Data Structures](#data-structures)
+  - [Arrays](#arrays)
+  - [Linked Lists](#linked-lists)
+  - [Stacks](#stacks)
+  - [Queues](#queues)
+  - [Hash Tables](#hash-tables)
+  - [Trees](#trees)
+  - [Heaps](#heaps)
+  - [Graphs](#graphs)
+- [Algorithms](#algorithms)
+    - [Sorting](#sorting)
+    - [Searching](#searching)
+    - [Graphs](#graphs-1)
+    - [Strings](#strings)
+    - [Recursion](#recursion)
+    - [Dynamic Programming](#dynamic-programming)
+    - [Bit Manipulation](#bit-manipulation)
+    - [Greedy Algorithms](#greedy-algorithms)
+    - [Backtracking](#backtracking)
+    - [Divide and Conquer](#divide-and-conquer)
+    - [Math](#math)
+    - [Miscellaneous](#miscellaneous)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [License](#license)
+
